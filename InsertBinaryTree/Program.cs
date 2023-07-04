@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-public class BinaryTree
+﻿public class BinaryTree
 {
     public int? value;
     public BinaryTree? left = null;

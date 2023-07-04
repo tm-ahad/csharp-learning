@@ -1,0 +1,15 @@
+D:\csharp-learning\TwoSum\bin\Debug\net6.0\TwoSum.exe
+D:\csharp-learning\TwoSum\bin\Debug\net6.0\TwoSum.deps.json
+D:\csharp-learning\TwoSum\bin\Debug\net6.0\TwoSum.runtimeconfig.json
+D:\csharp-learning\TwoSum\bin\Debug\net6.0\TwoSum.dll
+D:\csharp-learning\TwoSum\bin\Debug\net6.0\TwoSum.pdb
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\TwoSum.csproj.AssemblyReference.cache
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\TwoSum.AssemblyInfoInputs.cache
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\TwoSum.AssemblyInfo.cs
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\TwoSum.csproj.CoreCompileInputs.cache
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\TwoSum.dll
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\refint\TwoSum.dll
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\TwoSum.pdb
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\TwoSum.genruntimeconfig.cache
+D:\csharp-learning\TwoSum\obj\Debug\net6.0\ref\TwoSum.dll
