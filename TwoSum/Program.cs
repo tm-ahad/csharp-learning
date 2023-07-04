@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.Design;
-
+﻿
 class TwoSum
 {
     static Tuple<int, int>? solution(int[] nums, int target)
