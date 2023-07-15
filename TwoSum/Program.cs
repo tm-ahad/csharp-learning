@@ -19,7 +19,7 @@ class TwoSum
         return null;
     }
 
-    static void Main(string[] args)
+    static void Main()
     {
         int[] arr = { 2, 7, 11, 15 };
         var res = solution(arr, 9);

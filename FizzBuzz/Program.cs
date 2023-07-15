@@ -26,7 +26,7 @@ public class FizzBuzz
         }
     }
 
-    public static void Main(string[] args)
+    public static void Main()
     {
         solution(1, 100);
     }

@@ -1,0 +1,15 @@
+D:\csharp-learning\CoinChange\bin\Debug\net7.0\CoinChange.exe
+D:\csharp-learning\CoinChange\bin\Debug\net7.0\CoinChange.deps.json
+D:\csharp-learning\CoinChange\bin\Debug\net7.0\CoinChange.runtimeconfig.json
+D:\csharp-learning\CoinChange\bin\Debug\net7.0\CoinChange.dll
+D:\csharp-learning\CoinChange\bin\Debug\net7.0\CoinChange.pdb
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\CoinChange.csproj.AssemblyReference.cache
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\CoinChange.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\CoinChange.AssemblyInfoInputs.cache
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\CoinChange.AssemblyInfo.cs
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\CoinChange.csproj.CoreCompileInputs.cache
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\CoinChange.dll
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\refint\CoinChange.dll
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\CoinChange.pdb
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\CoinChange.genruntimeconfig.cache
+D:\csharp-learning\CoinChange\obj\Debug\net7.0\ref\CoinChange.dll

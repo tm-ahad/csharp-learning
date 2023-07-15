@@ -1,0 +1,5 @@
+D:\csharp-learning\caesar-cipher\obj\Debug\net7.0\caesar-cipher.csproj.AssemblyReference.cache
+D:\csharp-learning\caesar-cipher\obj\Debug\net7.0\caesar-cipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-learning\caesar-cipher\obj\Debug\net7.0\caesar-cipher.AssemblyInfoInputs.cache
+D:\csharp-learning\caesar-cipher\obj\Debug\net7.0\caesar-cipher.AssemblyInfo.cs
+D:\csharp-learning\caesar-cipher\obj\Debug\net7.0\caesar-cipher.csproj.CoreCompileInputs.cache
